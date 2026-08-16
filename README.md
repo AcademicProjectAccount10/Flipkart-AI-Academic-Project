@@ -12,6 +12,25 @@ API key is required for the default Part 3 mock mode.
 $PY = ".\.venv\Scripts\python.exe"
 ```
 
+## Quick verification of the committed implementation
+
+These commands load or inspect the existing artifacts; they do not retrain a
+model. They are the fastest way to validate the committed project.
+
+```powershell
+& $PY .\src\part1\analyze_generated_orders.py
+& $PY .\src\part2\verify_saved_product_classifier.py
+& $PY .\src\part3\verify_model_tools.py
+```
+
+Repository navigation:
+
+- `src/part1`, `src/part2`, `src/part3`: implementation and reproducible workflows
+- `models/`: the fitted Random Forest and ResNet-18 checkpoint used by Part 3
+- `outputs/`: metrics, reports, confusion matrix, and retrieval evaluation
+- `data/sample_images/`: five verified Fashion-MNIST official-test PNGs
+- `kb/`, `data/part3_policy_index/`, and `transcripts/`: Part 3 knowledge-base and agent evidence
+
 ## Part 1 - return-risk scoring
 
 The exact seeded generator is [generate_orders.py](generate_orders.py). It
@@ -20,6 +39,7 @@ columns. The training scripts save reports under `outputs/` and the final
 preprocessing-plus-Random-Forest pipeline at `models/return_risk_model.pkl`.
 
 ```powershell
+# Regenerates the deterministic dataset and retrains the Part 1 models.
 & $PY .\generate_orders.py
 & $PY .\src\part1\analyze_generated_orders.py
 & $PY .\src\part1\train_tasks_3_to_5.py
@@ -57,7 +77,9 @@ normalized with ImageNet mean `(0.485, 0.456, 0.406)` and standard deviation
 # Recreate the Tasks 3-6 feature-extraction training/evaluation reports.
 & $PY .\src\part2\train_tasks_3_to_6.py
 
-# Recreate the persisted model checkpoint and the five verified official-test PNG samples.
+# Optional artifact-recovery workflow: regenerates the persisted checkpoint and
+# five verified official-test PNGs. It repeats cached feature extraction and
+# head-only training, so it is not needed merely to inspect the committed model.
 & $PY .\src\part2\recover_and_complete_tasks_7_8.py
 
 # Load the checkpoint in a fresh process and run single-image inference.
@@ -93,6 +115,10 @@ zero API keys, and does not use a live LLM or outbound network calls at runtime.
 # Run the default MOCK_LLM agent suite and write the Task 9 transcripts plus Task 10 evaluation.
 & $PY .\src\part3\run_tasks_9_10.py
 ```
+
+`build_policy_index.py` is needed only when rebuilding the committed local
+index. The normal mock-agent and verification paths load the existing index
+locally; they do not use a live LLM or require an API key.
 
 For a single local mock-agent turn:
 
