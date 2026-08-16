@@ -1,0 +1,13 @@
+stage,epoch,learning_rate,mean_training_loss
+feature_extraction_head_only,1,0.001,0.5571678537325425
+feature_extraction_head_only,2,0.001,0.36642537175958806
+feature_extraction_head_only,3,0.001,0.33724180564663625
+feature_extraction_head_only,4,0.001,0.3210046937509017
+feature_extraction_head_only,5,0.001,0.3107299473198977
+feature_extraction_head_only,6,0.001,0.30423299040360885
+feature_extraction_head_only,7,0.001,0.29775900049209597
+feature_extraction_head_only,8,0.001,0.291221718415347
+feature_extraction_head_only,9,0.001,0.28685299176953055
+feature_extraction_head_only,10,0.001,0.28385144678896124
+feature_extraction_head_only,11,0.001,0.28074242639975117
+feature_extraction_head_only,12,0.001,0.2784840511105277

@@ -1,0 +1,13 @@
+{
+  "model_path": "D:\\New folder\\Dev\\Projects\\Assignment\\models\\product_classifier.pt",
+  "model_loaded_in_fresh_process": true,
+  "model_in_evaluation_mode": true,
+  "inference_image": "D:\\New folder\\Dev\\Projects\\Assignment\\data\\sample_images\\0019_t-shirt_top.png",
+  "inference_result": {
+    "predicted_index": 0,
+    "predicted_label": "T-shirt/top",
+    "confidence": 0.9875097274780273
+  },
+  "valid_predicted_class": true,
+  "valid_confidence": true
+}

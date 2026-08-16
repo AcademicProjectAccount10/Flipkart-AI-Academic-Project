@@ -1,0 +1,27 @@
+{
+  "return_risk_tool": {
+    "return_probability": 0.4488560085496303,
+    "risk_bucket": "Low",
+    "t_star_rf": 0.5,
+    "low_cut_point": 0.5,
+    "high_cut_point": 0.65
+  },
+  "return_risk_direct_probability": 0.4488560085496303,
+  "return_risk_matches_saved_model": true,
+  "image_tool": {
+    "image_path": "D:\\New folder\\Dev\\Projects\\Assignment\\data\\sample_images\\0019_t-shirt_top.png",
+    "predicted_index": 0,
+    "predicted_label": "T-shirt/top",
+    "confidence": 0.9875097274780273
+  },
+  "image_direct_model_result": {
+    "predicted_index": 0,
+    "predicted_label": "T-shirt/top",
+    "confidence": 0.9875097274780273
+  },
+  "image_tool_matches_saved_model": {
+    "predicted_index": true,
+    "predicted_label": true,
+    "confidence": true
+  }
+}

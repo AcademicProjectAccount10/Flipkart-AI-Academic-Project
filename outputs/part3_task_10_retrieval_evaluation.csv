@@ -1,0 +1,7 @@
+query_id,query,relevant_document_ids,retrieved_document_ids_at_3,hit_document_ids,hits,precision_at_3,recall_at_3
+Q1,How many days do I have to return shoes that do not fit?,POL-01,"POL-01, POL-03, POL-02",POL-01,1,0.3333333333333333,1.0
+Q2,When will I receive my COD refund after the pickup?,"POL-05, POL-10","POL-06, POL-05, POL-10","POL-05, POL-10",2,0.6666666666666666,1.0
+Q3,Can I return a damaged laptop after delivery?,POL-02,"POL-02, POL-04, POL-08",POL-02,1,0.3333333333333333,1.0
+Q4,Is reverse pickup available at my pin code?,POL-09,"POL-09, POL-10, POL-05",POL-09,1,0.3333333333333333,1.0
+Q5,What is the usual delivery time for a standard order?,POL-07,"POL-07, POL-08, POL-09",POL-07,1,0.3333333333333333,1.0
+Q6,Can I return an opened face cream because I changed my mind?,POL-04,"POL-04, POL-12, POL-03",POL-04,1,0.3333333333333333,1.0

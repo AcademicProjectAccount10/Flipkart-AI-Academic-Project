@@ -1,0 +1,34 @@
+# Local Python environments and package/build by-products
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Python bytecode and test/type-checker caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Notebook, editor, operating-system, and temporary local files
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+
+# Local secrets (no project secrets are required by the assignment)
+.env
+.env.local

@@ -1,0 +1,45 @@
+{
+  "recovery_reason": "No trained checkpoint or cached feature vectors were persisted after Tasks 3--6.",
+  "repeated_computation": "One frozen ResNet-18 pass for train/validation plus 12 head-only Adam epochs.",
+  "fine_tuning_required": false,
+  "validation_accuracy": 0.8962,
+  "test_accuracy": 0.8838,
+  "model_path": "D:\\New folder\\Dev\\Projects\\Assignment\\models\\product_classifier.pt",
+  "sample_images": [
+    {
+      "filename": "0019_t-shirt_top.png",
+      "test_split_index": 19,
+      "true_label_index": 0,
+      "true_label": "T-shirt/top",
+      "verified_pixel_equal_to_official_test_sample": true
+    },
+    {
+      "filename": "0002_trouser.png",
+      "test_split_index": 2,
+      "true_label_index": 1,
+      "true_label": "Trouser",
+      "verified_pixel_equal_to_official_test_sample": true
+    },
+    {
+      "filename": "0001_pullover.png",
+      "test_split_index": 1,
+      "true_label_index": 2,
+      "true_label": "Pullover",
+      "verified_pixel_equal_to_official_test_sample": true
+    },
+    {
+      "filename": "0008_sandal.png",
+      "test_split_index": 8,
+      "true_label_index": 5,
+      "true_label": "Sandal",
+      "verified_pixel_equal_to_official_test_sample": true
+    },
+    {
+      "filename": "0009_sneaker.png",
+      "test_split_index": 9,
+      "true_label_index": 7,
+      "true_label": "Sneaker",
+      "verified_pixel_equal_to_official_test_sample": true
+    }
+  ]
+}

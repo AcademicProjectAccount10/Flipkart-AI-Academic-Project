@@ -1,0 +1,6 @@
+transformed_feature,source_feature,impurity_importance,impurity_rank,permutation_importance_mean,permutation_importance_std,permutation_rank,rank_change
+categorical__payment_method_COD,payment_method,0.17880594560165547,1,0.06511808938993398,0.009575704883938347,1,0
+numeric__price_inr,price_inr,0.13226728154427536,2,0.012398892010542418,0.005868686725265526,2,0
+numeric__delivery_distance_km,delivery_distance_km,0.09567454153021013,3,0.0005565631779223534,0.0019330312890496909,10,7
+numeric__customer_tenure_days,customer_tenure_days,0.09001289001920373,4,-0.005073872549600777,0.0023477904579649825,18,14
+numeric__delivery_days,delivery_days,0.08844907146116973,5,0.003030770021061202,0.003210778968310484,5,0

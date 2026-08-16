@@ -1,0 +1,2 @@
+best_params,best_cross_validated_roc_auc,held_out_test_roc_auc,overall_precision_class_1,overall_recall_class_1,t_star_rf,f1_at_t_star_rf,precision_at_t_star_rf,recall_at_t_star_rf
+"{'classifier__max_depth': 6, 'classifier__n_estimators': 200}",0.6191897552449909,0.6203081348712416,0.32397408207343414,0.5494505494505495,0.5,0.4076086956521739,0.32397408207343414,0.5494505494505495

@@ -1,0 +1,3 @@
+actual_class,predicted_class,misclassified_images,explanation
+T-shirt/top,Shirt,156,"T-shirt/top and Shirt are both grayscale upper-body garment silhouettes. At 28×28 resolution, sleeves, collars, and fabric texture can be too faint to separate them reliably."
+Coat,Shirt,112,"Coat and Shirt are both grayscale upper-body garment silhouettes. At 28×28 resolution, sleeves, collars, and fabric texture can be too faint to separate them reliably."

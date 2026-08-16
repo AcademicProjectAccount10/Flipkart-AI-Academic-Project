@@ -1,0 +1,8 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "index_type": "FAISS IndexFlatIP over L2-normalized sentence embeddings",
+  "document_count": 12,
+  "chunk_count": 36,
+  "embedding_dimension": 384,
+  "evaluation_query_count": 6
+}

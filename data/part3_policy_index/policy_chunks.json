@@ -1,0 +1,254 @@
+[
+  {
+    "chunk_id": "POL-01-S1",
+    "parent_document_id": "POL-01",
+    "document_title": "Apparel and Footwear Returns",
+    "sentence_number": 1,
+    "text": "Apparel and footwear items may be returned within 10 days of delivery when they are unused, unwashed, and returned with original tags."
+  },
+  {
+    "chunk_id": "POL-01-S2",
+    "parent_document_id": "POL-01",
+    "document_title": "Apparel and Footwear Returns",
+    "sentence_number": 2,
+    "text": "The item must be packed with its original box or packaging where applicable."
+  },
+  {
+    "chunk_id": "POL-01-S3",
+    "parent_document_id": "POL-01",
+    "document_title": "Apparel and Footwear Returns",
+    "sentence_number": 3,
+    "text": "Products marked as final sale or non-returnable on the listing are excluded."
+  },
+  {
+    "chunk_id": "POL-02-S1",
+    "parent_document_id": "POL-02",
+    "document_title": "Electronics Returns and Replacement",
+    "sentence_number": 1,
+    "text": "Eligible electronics can be returned or replaced within 7 days of delivery when they are defective, damaged, or materially different from the listing."
+  },
+  {
+    "chunk_id": "POL-02-S2",
+    "parent_document_id": "POL-02",
+    "document_title": "Electronics Returns and Replacement",
+    "sentence_number": 2,
+    "text": "Customers should keep the original accessories, invoice, and packaging for verification."
+  },
+  {
+    "chunk_id": "POL-02-S3",
+    "parent_document_id": "POL-02",
+    "document_title": "Electronics Returns and Replacement",
+    "sentence_number": 3,
+    "text": "A technician visit may be arranged for selected large appliances before approval."
+  },
+  {
+    "chunk_id": "POL-03-S1",
+    "parent_document_id": "POL-03",
+    "document_title": "Home Category Returns",
+    "sentence_number": 1,
+    "text": "Eligible home and kitchen products may be returned within 10 days of delivery if they are unused and in saleable condition."
+  },
+  {
+    "chunk_id": "POL-03-S2",
+    "parent_document_id": "POL-03",
+    "document_title": "Home Category Returns",
+    "sentence_number": 2,
+    "text": "Assembly-related damage or missing parts should be reported with clear photos within the applicable return window."
+  },
+  {
+    "chunk_id": "POL-03-S3",
+    "parent_document_id": "POL-03",
+    "document_title": "Home Category Returns",
+    "sentence_number": 3,
+    "text": "Custom-made or hygiene-sensitive home items may be non-returnable when the listing says so."
+  },
+  {
+    "chunk_id": "POL-04-S1",
+    "parent_document_id": "POL-04",
+    "document_title": "Beauty and Personal Care Returns",
+    "sentence_number": 1,
+    "text": "Beauty and personal care items are returnable only when delivered damaged, defective, expired, or different from the order."
+  },
+  {
+    "chunk_id": "POL-04-S2",
+    "parent_document_id": "POL-04",
+    "document_title": "Beauty and Personal Care Returns",
+    "sentence_number": 2,
+    "text": "Opened, used, or seal-broken beauty products are not eligible for a change-of-mind return."
+  },
+  {
+    "chunk_id": "POL-04-S3",
+    "parent_document_id": "POL-04",
+    "document_title": "Beauty and Personal Care Returns",
+    "sentence_number": 3,
+    "text": "Customers should report a qualifying issue with photos as soon as possible after delivery."
+  },
+  {
+    "chunk_id": "POL-05-S1",
+    "parent_document_id": "POL-05",
+    "document_title": "COD Refund Timeline",
+    "sentence_number": 1,
+    "text": "For a successful cash-on-delivery return, the refund is initiated after the returned item passes the seller or warehouse quality check."
+  },
+  {
+    "chunk_id": "POL-05-S2",
+    "parent_document_id": "POL-05",
+    "document_title": "COD Refund Timeline",
+    "sentence_number": 2,
+    "text": "Refunds to the customer\u2019s selected bank account or UPI ID generally appear within 5 to 7 business days after initiation."
+  },
+  {
+    "chunk_id": "POL-05-S3",
+    "parent_document_id": "POL-05",
+    "document_title": "COD Refund Timeline",
+    "sentence_number": 3,
+    "text": "The customer may track the refund status from the order details page."
+  },
+  {
+    "chunk_id": "POL-06-S1",
+    "parent_document_id": "POL-06",
+    "document_title": "Prepaid Refund Timeline",
+    "sentence_number": 1,
+    "text": "Prepaid-order refunds are initiated after the returned item passes the required quality check or after a cancellation is confirmed."
+  },
+  {
+    "chunk_id": "POL-06-S2",
+    "parent_document_id": "POL-06",
+    "document_title": "Prepaid Refund Timeline",
+    "sentence_number": 2,
+    "text": "The amount is sent back to the original payment method, and bank processing can take 3 to 7 business days."
+  },
+  {
+    "chunk_id": "POL-06-S3",
+    "parent_document_id": "POL-06",
+    "document_title": "Prepaid Refund Timeline",
+    "sentence_number": 3,
+    "text": "Wallet refunds may appear sooner depending on the wallet provider."
+  },
+  {
+    "chunk_id": "POL-07-S1",
+    "parent_document_id": "POL-07",
+    "document_title": "Delivery Service Levels",
+    "sentence_number": 1,
+    "text": "Estimated delivery dates are shown on the product page and in the order details after an order is placed."
+  },
+  {
+    "chunk_id": "POL-07-S2",
+    "parent_document_id": "POL-07",
+    "document_title": "Delivery Service Levels",
+    "sentence_number": 2,
+    "text": "Standard delivery commonly takes 2 to 7 business days, while remote locations can require additional transit time."
+  },
+  {
+    "chunk_id": "POL-07-S3",
+    "parent_document_id": "POL-07",
+    "document_title": "Delivery Service Levels",
+    "sentence_number": 3,
+    "text": "Customers receive tracking updates when the shipment is packed, dispatched, and out for delivery."
+  },
+  {
+    "chunk_id": "POL-08-S1",
+    "parent_document_id": "POL-08",
+    "document_title": "Address and Delivery Attempts",
+    "sentence_number": 1,
+    "text": "Customers can update an address only before the order reaches the shipped stage, subject to serviceability checks."
+  },
+  {
+    "chunk_id": "POL-08-S2",
+    "parent_document_id": "POL-08",
+    "document_title": "Address and Delivery Attempts",
+    "sentence_number": 2,
+    "text": "Delivery partners normally make reasonable delivery attempts and may contact the customer for location assistance."
+  },
+  {
+    "chunk_id": "POL-08-S3",
+    "parent_document_id": "POL-08",
+    "document_title": "Address and Delivery Attempts",
+    "sentence_number": 3,
+    "text": "An undelivered shipment can be returned to the seller after unsuccessful attempts."
+  },
+  {
+    "chunk_id": "POL-09-S1",
+    "parent_document_id": "POL-09",
+    "document_title": "Reverse Pickup Eligibility",
+    "sentence_number": 1,
+    "text": "Reverse pickup is available when the return is eligible and the customer\u2019s delivery pin code is serviceable for pickup."
+  },
+  {
+    "chunk_id": "POL-09-S2",
+    "parent_document_id": "POL-09",
+    "document_title": "Reverse Pickup Eligibility",
+    "sentence_number": 2,
+    "text": "The customer should hand over the correct item with included accessories and packaging at the scheduled pickup."
+  },
+  {
+    "chunk_id": "POL-09-S3",
+    "parent_document_id": "POL-09",
+    "document_title": "Reverse Pickup Eligibility",
+    "sentence_number": 3,
+    "text": "If pickup is unavailable, the order page provides an alternative self-ship option when supported."
+  },
+  {
+    "chunk_id": "POL-10-S1",
+    "parent_document_id": "POL-10",
+    "document_title": "Return Pickup and Quality Check",
+    "sentence_number": 1,
+    "text": "A pickup partner scans or collects the package after a return request is approved."
+  },
+  {
+    "chunk_id": "POL-10-S2",
+    "parent_document_id": "POL-10",
+    "document_title": "Return Pickup and Quality Check",
+    "sentence_number": 2,
+    "text": "Collection does not by itself guarantee a refund because the returned item can be checked for condition, serial number, accessories, and packaging."
+  },
+  {
+    "chunk_id": "POL-10-S3",
+    "parent_document_id": "POL-10",
+    "document_title": "Return Pickup and Quality Check",
+    "sentence_number": 3,
+    "text": "A failed quality check may result in the item being sent back to the customer with an explanation."
+  },
+  {
+    "chunk_id": "POL-11-S1",
+    "parent_document_id": "POL-11",
+    "document_title": "Order Cancellation",
+    "sentence_number": 1,
+    "text": "Customers can request cancellation from the order details page before the order is packed or shipped."
+  },
+  {
+    "chunk_id": "POL-11-S2",
+    "parent_document_id": "POL-11",
+    "document_title": "Order Cancellation",
+    "sentence_number": 2,
+    "text": "Cancellation approval depends on the seller and fulfilment stage at the time of the request."
+  },
+  {
+    "chunk_id": "POL-11-S3",
+    "parent_document_id": "POL-11",
+    "document_title": "Order Cancellation",
+    "sentence_number": 3,
+    "text": "A prepaid cancellation refund follows the prepaid refund timeline after cancellation confirmation."
+  },
+  {
+    "chunk_id": "POL-12-S1",
+    "parent_document_id": "POL-12",
+    "document_title": "Missing, Wrong, or Damaged Deliveries",
+    "sentence_number": 1,
+    "text": "Customers should report a missing item, wrong item, or transit-damaged delivery from the order details page within the stated return or issue-reporting window."
+  },
+  {
+    "chunk_id": "POL-12-S2",
+    "parent_document_id": "POL-12",
+    "document_title": "Missing, Wrong, or Damaged Deliveries",
+    "sentence_number": 2,
+    "text": "Clear photos of the received item, package, and labels can speed up verification."
+  },
+  {
+    "chunk_id": "POL-12-S3",
+    "parent_document_id": "POL-12",
+    "document_title": "Missing, Wrong, or Damaged Deliveries",
+    "sentence_number": 3,
+    "text": "Eligible cases are resolved through replacement, return, or refund according to the product category policy."
+  }
+]

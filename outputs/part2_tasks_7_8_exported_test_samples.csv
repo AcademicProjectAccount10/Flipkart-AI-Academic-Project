@@ -1,0 +1,6 @@
+filename,test_split_index,true_label_index,true_label,verified_pixel_equal_to_official_test_sample
+0019_t-shirt_top.png,19,0,T-shirt/top,True
+0002_trouser.png,2,1,Trouser,True
+0001_pullover.png,1,2,Pullover,True
+0008_sandal.png,8,5,Sandal,True
+0009_sneaker.png,9,7,Sneaker,True
