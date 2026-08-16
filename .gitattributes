@@ -1,0 +1,15 @@
+# Keep repository source and documentation line endings stable across platforms.
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# Preserve generated model and data artifacts byte-for-byte.
+*.pt -text
+*.pkl -text
+*.faiss -text
+*.png -text
+data/raw/FashionMNIST/raw/* -text
