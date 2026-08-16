@@ -5,12 +5,26 @@ Fashion-MNIST product-image classifier, and a LangGraph support assistant that
 uses both models plus a grounded policy knowledge base.
 
 All commands below are PowerShell commands and must be run from the repository
-root. The repository already contains the configured virtual environment; no
-API key is required for the default Part 3 mock mode.
+root. No API key is required for the default Part 3 mock mode.
+
+## Setup for a fresh Windows clone
+
+Install a current CPython version supported by PyTorch, then create a local
+virtual environment and install the pinned direct dependencies. The `.venv`
+folder is intentionally local and is not committed. If `python` is not on your
+PATH, substitute the full path to the desired Python executable in the commands.
 
 ```powershell
+# Create the environment once after cloning.
+python -m venv .venv
+
+# Install the dependencies declared by this repository.
 $PY = ".\.venv\Scripts\python.exe"
+& $PY -m pip install --upgrade pip
+& $PY -m pip install -r .\requirements.txt
 ```
+
+After setup, use the same `$PY` variable for every command below.
 
 ## Quick verification of the committed implementation
 
